@@ -1,7 +1,7 @@
 # Advanced Snake Game
 
-![Screenshot](screenshot/gameplay.png)
-![Screenshot](screenshot/playerselect.png)
+![Screenshot](../screenshot/gameplay.png)
+![Screenshot](../screenshot/playerselect.png)
 
 ## Features
 - 🐍 Classic snake gameplay with power-ups
